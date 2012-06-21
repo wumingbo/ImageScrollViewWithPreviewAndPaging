@@ -252,6 +252,7 @@
 		267E26671591617C0018DF6F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ImageScrollViewWithPreviewAndPaging/ImageScrollViewWithPreviewAndPaging-Prefix.pch";
 				INFOPLIST_FILE = "ImageScrollViewWithPreviewAndPaging/ImageScrollViewWithPreviewAndPaging-Info.plist";
@@ -264,6 +265,7 @@
 		267E26681591617C0018DF6F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ImageScrollViewWithPreviewAndPaging/ImageScrollViewWithPreviewAndPaging-Prefix.pch";
 				INFOPLIST_FILE = "ImageScrollViewWithPreviewAndPaging/ImageScrollViewWithPreviewAndPaging-Info.plist";
